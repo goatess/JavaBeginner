@@ -1,4 +1,4 @@
-package com.tipos;
+package com.java1.tipos;
 
 public class Operadores {
     private static int num1 = 10;

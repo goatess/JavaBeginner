@@ -1,4 +1,4 @@
-package com.tipos;
+package com.java1.tipos;
 
 public class Tipos {
     final static byte INTEGER1 = 1;
