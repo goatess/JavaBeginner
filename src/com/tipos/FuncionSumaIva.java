@@ -5,7 +5,7 @@ public class FuncionSumaIva {
     static int priceWithIva;
 
     public static void main(String[] args) {
-        System.out.println(calculateIva(100));
+        System.out.println(addIva(100));
     }
 
     public static int calculateIva(int price) {
