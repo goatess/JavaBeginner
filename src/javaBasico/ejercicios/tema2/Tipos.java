@@ -1,4 +1,4 @@
-package javaBasico.tipos;
+package javaBasico.ejercicios.tema2;
 
 public class Tipos {
     final static byte INTEGER1 = 1;

@@ -1,4 +1,4 @@
-package javaBasico.funciones;
+package javaBasico.ejercicios.tema3;
 
 import static org.junit.Assert.assertEquals;
 

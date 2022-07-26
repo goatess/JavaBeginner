@@ -1,10 +1,10 @@
-package javaBasico.estructurascontrol;
+package javaBasico.ejercicios.tema4;
 
 /**
- * crear un bulce for que permita concatenar tectos y imprima el resultado final por consola
+ * crear un bulce for que permita concatenar textos y imprima el resultado final por consola
  */
 
-public class Ejercicio {
+public class EjercicioTema4 {
     static String[] nombres = {"Juan", "Sara", "Fulgencio", "Amparo", "Isabel"};
     static String listaNombres = "";
     public static void main(String[] args) {
