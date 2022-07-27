@@ -1,4 +1,4 @@
-package javaBasico.tipos;
+package javaBasico.apuntes.tipos;
 
 public class Tipos {
     final static byte INTEGER1 = 1;

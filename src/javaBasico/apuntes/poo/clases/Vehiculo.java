@@ -1,4 +1,4 @@
-package javaBasico.poo.clases;
+package javaBasico.apuntes.poo.clases;
 
 // superclass
 public class Vehiculo {

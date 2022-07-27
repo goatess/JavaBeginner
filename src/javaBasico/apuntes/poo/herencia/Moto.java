@@ -1,7 +1,7 @@
-package javaBasico.poo.herencia;
+package javaBasico.apuntes.poo.herencia;
 
-import javaBasico.poo.clases.Motor;
-import javaBasico.poo.clases.Vehiculo;
+import javaBasico.apuntes.poo.clases.Motor;
+import javaBasico.apuntes.poo.clases.Vehiculo;
 
 public class Moto extends Vehiculo{
     boolean baul;

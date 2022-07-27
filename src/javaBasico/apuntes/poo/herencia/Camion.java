@@ -1,6 +1,6 @@
-package javaBasico.poo.herencia;
+package javaBasico.apuntes.poo.herencia;
 
-import javaBasico.poo.clases.Vehiculo;
+import javaBasico.apuntes.poo.clases.Vehiculo;
 
 public class Camion extends Vehiculo{
     double cilindros;

@@ -1,4 +1,4 @@
-package javaBasico.estructurascontrol.repeticion;
+package javaBasico.apuntes.estructurascontrol.repeticion;
 
 import java.util.Arrays;
 

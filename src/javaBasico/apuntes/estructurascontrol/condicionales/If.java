@@ -1,4 +1,4 @@
-package javaBasico.estructurascontrol.condicionales;
+package javaBasico.apuntes.estructurascontrol.condicionales;
 
 public class If {
     static int edad = 17;

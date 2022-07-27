@@ -1,8 +1,8 @@
-package javaBasico.poo.clases;
+package javaBasico.apuntes.poo.clases;
 
-import javaBasico.poo.herencia.Camion;
-import javaBasico.poo.herencia.Coche;
-import javaBasico.poo.herencia.Moto;
+import javaBasico.apuntes.poo.herencia.Camion;
+import javaBasico.apuntes.poo.herencia.Coche;
+import javaBasico.apuntes.poo.herencia.Moto;
 
 public class Main {
 
@@ -23,5 +23,4 @@ public class Main {
         // abstract class -> cant be instantiated (only child classes)
     }
 
-    // crear clase padre SmartDevice y las clases hojas SmartPhone y SmartWatch agregar atributos y constructores. desde main crear objetos y utilizarlos
 }
